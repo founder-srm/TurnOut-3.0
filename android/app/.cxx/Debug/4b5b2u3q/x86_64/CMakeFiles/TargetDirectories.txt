@@ -1,0 +1,2 @@
+/Users/vr/Development/TurnOut-3.0/android/app/.cxx/Debug/4b5b2u3q/x86_64/CMakeFiles/edit_cache.dir
+/Users/vr/Development/TurnOut-3.0/android/app/.cxx/Debug/4b5b2u3q/x86_64/CMakeFiles/rebuild_cache.dir

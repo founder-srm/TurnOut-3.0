@@ -1,0 +1,2 @@
+/Users/vr/Development/TurnOut-3.0/android/app/.cxx/RelWithDebInfo/5o1h3b3s/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/vr/Development/TurnOut-3.0/android/app/.cxx/RelWithDebInfo/5o1h3b3s/armeabi-v7a/CMakeFiles/rebuild_cache.dir
