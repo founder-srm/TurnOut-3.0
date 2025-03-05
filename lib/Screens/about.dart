@@ -23,7 +23,7 @@ class AboutPage extends StatelessWidget {
             ),
             const SizedBox(height: 8),
             Text(
-              'Vinay Rajan',
+              'Vinay Rajan & Suvan Gs',
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,

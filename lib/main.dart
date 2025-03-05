@@ -3,7 +3,7 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import 'package:turnout/Screens/attendance.dart';
 import 'package:turnout/Screens/scanner.dart';
-import 'package:turnout/Screens/about.dart'; // Add this import
+import 'package:turnout/Screens/about.dart';
 import 'Components/bottomNavbar.dart';
 
 Future<void> main() async {
@@ -29,6 +29,15 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
+        primaryColor: Colors.deepPurple,
+        textTheme: TextTheme(
+          displayLarge: TextStyle(fontSize: 32.0, fontWeight: FontWeight.bold, color: Colors.deepPurple),
+          bodyLarge: TextStyle(fontSize: 16.0, color: Colors.grey[600]),
+        ),
+        buttonTheme: ButtonThemeData(
+          buttonColor: Colors.deepPurple,
+          textTheme: ButtonTextTheme.primary,
+        ),
       ),
       home: const MyHomePage(),
     );
